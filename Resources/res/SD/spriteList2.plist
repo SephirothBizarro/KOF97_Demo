@@ -1,0 +1,2714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>iori_Attack/0001.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{38,28}</string>
+                <key>spriteSourceSize</key>
+                <string>{38,28}</string>
+                <key>textureRect</key>
+                <string>{{139,976},{38,28}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>38 28 0 28 0 0 38 0</string>
+                <key>verticesUV</key>
+                <string>177 1004 139 1004 139 976 177 976</string>
+            </dict>
+            <key>iori_Attack/0002.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{38,28}</string>
+                <key>spriteSourceSize</key>
+                <string>{38,28}</string>
+                <key>textureRect</key>
+                <string>{{139,946},{38,28}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>38 28 0 28 0 0 38 0</string>
+                <key>verticesUV</key>
+                <string>177 974 139 974 139 946 177 946</string>
+            </dict>
+            <key>iori_Attack/0003.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{38,28}</string>
+                <key>spriteSourceSize</key>
+                <string>{38,28}</string>
+                <key>textureRect</key>
+                <string>{{139,916},{38,28}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>38 28 0 28 0 0 38 0</string>
+                <key>verticesUV</key>
+                <string>177 944 139 944 139 916 177 916</string>
+            </dict>
+            <key>iori_Attack/0004.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{38,28}</string>
+                <key>spriteSourceSize</key>
+                <string>{38,28}</string>
+                <key>textureRect</key>
+                <string>{{139,886},{38,28}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>38 28 0 28 0 0 38 0</string>
+                <key>verticesUV</key>
+                <string>177 914 139 914 139 886 177 886</string>
+            </dict>
+            <key>iori_Attack/0005.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{38,28}</string>
+                <key>spriteSourceSize</key>
+                <string>{38,28}</string>
+                <key>textureRect</key>
+                <string>{{139,946},{38,28}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>38 28 0 28 0 0 38 0</string>
+                <key>verticesUV</key>
+                <string>177 974 139 974 139 946 177 946</string>
+            </dict>
+            <key>iori_Attack/0006.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{38,28}</string>
+                <key>spriteSourceSize</key>
+                <string>{38,28}</string>
+                <key>textureRect</key>
+                <string>{{139,856},{38,28}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>38 28 0 28 0 0 38 0</string>
+                <key>verticesUV</key>
+                <string>177 884 139 884 139 856 177 856</string>
+            </dict>
+            <key>iori_Attack/0007.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{38,28}</string>
+                <key>spriteSourceSize</key>
+                <string>{38,28}</string>
+                <key>textureRect</key>
+                <string>{{139,826},{38,28}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>38 28 0 28 0 0 38 0</string>
+                <key>verticesUV</key>
+                <string>177 854 139 854 139 826 177 826</string>
+            </dict>
+            <key>iori_Attack/0008.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{38,28}</string>
+                <key>spriteSourceSize</key>
+                <string>{38,28}</string>
+                <key>textureRect</key>
+                <string>{{129,796},{38,28}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>38 28 0 28 0 0 38 0</string>
+                <key>verticesUV</key>
+                <string>167 824 129 824 129 796 167 796</string>
+            </dict>
+            <key>iori_Attack/0009.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{38,28}</string>
+                <key>spriteSourceSize</key>
+                <string>{38,28}</string>
+                <key>textureRect</key>
+                <string>{{129,766},{38,28}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>38 28 0 28 0 0 38 0</string>
+                <key>verticesUV</key>
+                <string>167 794 129 794 129 766 167 766</string>
+            </dict>
+            <key>iori_Attack/0010.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{38,28}</string>
+                <key>spriteSourceSize</key>
+                <string>{38,28}</string>
+                <key>textureRect</key>
+                <string>{{129,736},{38,28}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>38 28 0 28 0 0 38 0</string>
+                <key>verticesUV</key>
+                <string>167 764 129 764 129 736 167 736</string>
+            </dict>
+            <key>iori_Attack/0011.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{38,28}</string>
+                <key>spriteSourceSize</key>
+                <string>{38,28}</string>
+                <key>textureRect</key>
+                <string>{{129,796},{38,28}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>38 28 0 28 0 0 38 0</string>
+                <key>verticesUV</key>
+                <string>167 824 129 824 129 796 167 796</string>
+            </dict>
+            <key>iori_Attack/0012.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{38,28}</string>
+                <key>spriteSourceSize</key>
+                <string>{38,28}</string>
+                <key>textureRect</key>
+                <string>{{139,826},{38,28}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>38 28 0 28 0 0 38 0</string>
+                <key>verticesUV</key>
+                <string>177 854 139 854 139 826 177 826</string>
+            </dict>
+            <key>iori_Attack/0013.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{38,28}</string>
+                <key>spriteSourceSize</key>
+                <string>{38,28}</string>
+                <key>textureRect</key>
+                <string>{{139,856},{38,28}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>38 28 0 28 0 0 38 0</string>
+                <key>verticesUV</key>
+                <string>177 884 139 884 139 856 177 856</string>
+            </dict>
+            <key>iori_Attack/0014.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{38,28}</string>
+                <key>spriteSourceSize</key>
+                <string>{38,28}</string>
+                <key>textureRect</key>
+                <string>{{136,706},{38,28}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>38 28 0 28 0 0 38 0</string>
+                <key>verticesUV</key>
+                <string>174 734 136 734 136 706 174 706</string>
+            </dict>
+            <key>iori_Attack/0015.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{38,28}</string>
+                <key>spriteSourceSize</key>
+                <string>{38,28}</string>
+                <key>textureRect</key>
+                <string>{{136,676},{38,28}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>38 28 0 28 0 0 38 0</string>
+                <key>verticesUV</key>
+                <string>174 704 136 704 136 676 174 676</string>
+            </dict>
+            <key>iori_Attack/0016.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{38,28}</string>
+                <key>spriteSourceSize</key>
+                <string>{38,28}</string>
+                <key>textureRect</key>
+                <string>{{136,646},{38,28}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>38 28 0 28 0 0 38 0</string>
+                <key>verticesUV</key>
+                <string>174 674 136 674 136 646 174 646</string>
+            </dict>
+            <key>iori_Attack/0017.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{38,28}</string>
+                <key>spriteSourceSize</key>
+                <string>{38,28}</string>
+                <key>textureRect</key>
+                <string>{{132,616},{38,28}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>38 28 0 28 0 0 38 0</string>
+                <key>verticesUV</key>
+                <string>170 644 132 644 132 616 170 616</string>
+            </dict>
+            <key>iori_Attack/0018.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{38,28}</string>
+                <key>spriteSourceSize</key>
+                <string>{38,28}</string>
+                <key>textureRect</key>
+                <string>{{99,1262},{38,28}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>38 28 0 28 0 0 38 0</string>
+                <key>verticesUV</key>
+                <string>137 1290 99 1290 99 1262 137 1262</string>
+            </dict>
+            <key>iori_Attack/0019.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{38,28}</string>
+                <key>spriteSourceSize</key>
+                <string>{38,28}</string>
+                <key>textureRect</key>
+                <string>{{99,1232},{38,28}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>38 28 0 28 0 0 38 0</string>
+                <key>verticesUV</key>
+                <string>137 1260 99 1260 99 1232 137 1232</string>
+            </dict>
+            <key>iori_Attack/0020.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{38,28}</string>
+                <key>spriteSourceSize</key>
+                <string>{38,28}</string>
+                <key>textureRect</key>
+                <string>{{99,1202},{38,28}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>38 28 0 28 0 0 38 0</string>
+                <key>verticesUV</key>
+                <string>137 1230 99 1230 99 1202 137 1202</string>
+            </dict>
+            <key>iori_Attack/0021.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{38,28}</string>
+                <key>spriteSourceSize</key>
+                <string>{38,28}</string>
+                <key>textureRect</key>
+                <string>{{99,1172},{38,28}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>38 28 0 28 0 0 38 0</string>
+                <key>verticesUV</key>
+                <string>137 1200 99 1200 99 1172 137 1172</string>
+            </dict>
+            <key>iori_Attack/0022.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{38,28}</string>
+                <key>spriteSourceSize</key>
+                <string>{38,28}</string>
+                <key>textureRect</key>
+                <string>{{99,1142},{38,28}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>38 28 0 28 0 0 38 0</string>
+                <key>verticesUV</key>
+                <string>137 1170 99 1170 99 1142 137 1142</string>
+            </dict>
+            <key>iori_Attack/0023.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{38,28}</string>
+                <key>spriteSourceSize</key>
+                <string>{38,28}</string>
+                <key>textureRect</key>
+                <string>{{139,856},{38,28}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>38 28 0 28 0 0 38 0</string>
+                <key>verticesUV</key>
+                <string>177 884 139 884 139 856 177 856</string>
+            </dict>
+            <key>iori_Attack/0024.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{38,28}</string>
+                <key>spriteSourceSize</key>
+                <string>{38,28}</string>
+                <key>textureRect</key>
+                <string>{{99,1112},{38,28}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>38 28 0 28 0 0 38 0</string>
+                <key>verticesUV</key>
+                <string>137 1140 99 1140 99 1112 137 1112</string>
+            </dict>
+            <key>iori_Attack/0025.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{38,28}</string>
+                <key>spriteSourceSize</key>
+                <string>{38,28}</string>
+                <key>textureRect</key>
+                <string>{{99,1082},{38,28}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>38 28 0 28 0 0 38 0</string>
+                <key>verticesUV</key>
+                <string>137 1110 99 1110 99 1082 137 1082</string>
+            </dict>
+            <key>iori_Attack/0026.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{38,28}</string>
+                <key>spriteSourceSize</key>
+                <string>{38,28}</string>
+                <key>textureRect</key>
+                <string>{{99,1052},{38,28}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>38 28 0 28 0 0 38 0</string>
+                <key>verticesUV</key>
+                <string>137 1080 99 1080 99 1052 137 1052</string>
+            </dict>
+            <key>iori_Attack/0027.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{38,28}</string>
+                <key>spriteSourceSize</key>
+                <string>{38,28}</string>
+                <key>textureRect</key>
+                <string>{{99,1022},{38,28}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>38 28 0 28 0 0 38 0</string>
+                <key>verticesUV</key>
+                <string>137 1050 99 1050 99 1022 137 1022</string>
+            </dict>
+            <key>iori_Attack/0028.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{38,28}</string>
+                <key>spriteSourceSize</key>
+                <string>{38,28}</string>
+                <key>textureRect</key>
+                <string>{{99,992},{38,28}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>38 28 0 28 0 0 38 0</string>
+                <key>verticesUV</key>
+                <string>137 1020 99 1020 99 992 137 992</string>
+            </dict>
+            <key>iori_Attack/0029.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{38,28}</string>
+                <key>spriteSourceSize</key>
+                <string>{38,28}</string>
+                <key>textureRect</key>
+                <string>{{99,962},{38,28}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>38 28 0 28 0 0 38 0</string>
+                <key>verticesUV</key>
+                <string>137 990 99 990 99 962 137 962</string>
+            </dict>
+            <key>iori_Attack/0030.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{38,28}</string>
+                <key>spriteSourceSize</key>
+                <string>{38,28}</string>
+                <key>textureRect</key>
+                <string>{{99,932},{38,28}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>38 28 0 28 0 0 38 0</string>
+                <key>verticesUV</key>
+                <string>137 960 99 960 99 932 137 932</string>
+            </dict>
+            <key>iori_Attack/0031.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{38,28}</string>
+                <key>spriteSourceSize</key>
+                <string>{38,28}</string>
+                <key>textureRect</key>
+                <string>{{99,902},{38,28}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>38 28 0 28 0 0 38 0</string>
+                <key>verticesUV</key>
+                <string>137 930 99 930 99 902 137 902</string>
+            </dict>
+            <key>iori_Attack/0032.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{38,28}</string>
+                <key>spriteSourceSize</key>
+                <string>{38,28}</string>
+                <key>textureRect</key>
+                <string>{{99,872},{38,28}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>38 28 0 28 0 0 38 0</string>
+                <key>verticesUV</key>
+                <string>137 900 99 900 99 872 137 872</string>
+            </dict>
+            <key>iori_Attack/0033.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{38,28}</string>
+                <key>spriteSourceSize</key>
+                <string>{38,28}</string>
+                <key>textureRect</key>
+                <string>{{99,842},{38,28}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>38 28 0 28 0 0 38 0</string>
+                <key>verticesUV</key>
+                <string>137 870 99 870 99 842 137 842</string>
+            </dict>
+            <key>iori_Attack/0034.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{38,28}</string>
+                <key>spriteSourceSize</key>
+                <string>{38,28}</string>
+                <key>textureRect</key>
+                <string>{{139,856},{38,28}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>38 28 0 28 0 0 38 0</string>
+                <key>verticesUV</key>
+                <string>177 884 139 884 139 856 177 856</string>
+            </dict>
+            <key>iori_Die/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{7,-3.5}</string>
+                <key>spriteSize</key>
+                <string>{35,41}</string>
+                <key>spriteSourceSize</key>
+                <string>{49,52}</string>
+                <key>textureRect</key>
+                <string>{{99,573},{35,41}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 1 2</string>
+                <key>vertices</key>
+                <string>49 50 14 50 49 9</string>
+                <key>verticesUV</key>
+                <string>134 614 99 614 134 573</string>
+            </dict>
+            <key>iori_Die/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{14.5,-13}</string>
+                <key>spriteSize</key>
+                <string>{20,22}</string>
+                <key>spriteSourceSize</key>
+                <string>{49,52}</string>
+                <key>textureRect</key>
+                <string>{{167,1374},{20,22}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>49 50 29 50 29 28 49 28</string>
+                <key>verticesUV</key>
+                <string>187 1396 167 1396 167 1374 187 1374</string>
+            </dict>
+            <key>iori_Die/0003.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{7,-3.5}</string>
+                <key>spriteSize</key>
+                <string>{35,41}</string>
+                <key>spriteSourceSize</key>
+                <string>{49,52}</string>
+                <key>textureRect</key>
+                <string>{{99,573},{35,41}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 1 2</string>
+                <key>vertices</key>
+                <string>49 50 14 50 49 9</string>
+                <key>verticesUV</key>
+                <string>134 614 99 614 134 573</string>
+            </dict>
+            <key>iori_Die/0004.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{14,-6}</string>
+                <key>spriteSize</key>
+                <string>{21,22}</string>
+                <key>spriteSourceSize</key>
+                <string>{49,52}</string>
+                <key>textureRect</key>
+                <string>{{174,1095},{21,22}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>49 43 28 43 28 21 49 21</string>
+                <key>verticesUV</key>
+                <string>195 1117 174 1117 174 1095 195 1095</string>
+            </dict>
+            <key>iori_Die/0005.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{15,1}</string>
+                <key>spriteSize</key>
+                <string>{19,24}</string>
+                <key>spriteSourceSize</key>
+                <string>{49,52}</string>
+                <key>textureRect</key>
+                <string>{{174,1119},{19,24}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>49 37 30 37 30 13 49 13</string>
+                <key>verticesUV</key>
+                <string>193 1143 174 1143 174 1119 193 1119</string>
+            </dict>
+            <key>iori_Die/0006.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{14,4}</string>
+                <key>spriteSize</key>
+                <string>{19,24}</string>
+                <key>spriteSourceSize</key>
+                <string>{49,52}</string>
+                <key>textureRect</key>
+                <string>{{176,703},{19,24}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>48 34 29 34 29 10 48 10</string>
+                <key>verticesUV</key>
+                <string>195 727 176 727 176 703 195 703</string>
+            </dict>
+            <key>iori_Die/0007.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{12,8.5}</string>
+                <key>spriteSize</key>
+                <string>{19,27}</string>
+                <key>spriteSourceSize</key>
+                <string>{49,52}</string>
+                <key>textureRect</key>
+                <string>{{176,674},{19,27}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>46 31 27 31 27 4 46 4</string>
+                <key>verticesUV</key>
+                <string>195 701 176 701 176 674 195 674</string>
+            </dict>
+            <key>iori_Die/0008.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{11,10.5}</string>
+                <key>spriteSize</key>
+                <string>{19,27}</string>
+                <key>spriteSourceSize</key>
+                <string>{49,52}</string>
+                <key>textureRect</key>
+                <string>{{176,645},{19,27}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>45 29 26 29 26 2 45 2</string>
+                <key>verticesUV</key>
+                <string>195 672 176 672 176 645 195 645</string>
+            </dict>
+            <key>iori_Die/0009.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{11,10.5}</string>
+                <key>spriteSize</key>
+                <string>{27,31}</string>
+                <key>spriteSourceSize</key>
+                <string>{49,52}</string>
+                <key>textureRect</key>
+                <string>{{139,1257},{27,31}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>2 3 4 1 2 4 0 1 4</string>
+                <key>vertices</key>
+                <string>49 29 33 31 22 5 26 0 49 0</string>
+                <key>verticesUV</key>
+                <string>166 1286 150 1288 139 1262 143 1257 166 1257</string>
+            </dict>
+            <key>iori_Die/0010.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{10.5,11.5}</string>
+                <key>spriteSize</key>
+                <string>{28,29}</string>
+                <key>spriteSourceSize</key>
+                <string>{49,52}</string>
+                <key>textureRect</key>
+                <string>{{165,1244},{28,29}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 3 4 1 2 3 0 1 4</string>
+                <key>vertices</key>
+                <string>49 28 32 29 21 5 25 0 49 0</string>
+                <key>verticesUV</key>
+                <string>193 1272 176 1273 165 1249 169 1244 193 1244</string>
+            </dict>
+            <key>iori_Die/0011.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{9.5,17}</string>
+                <key>spriteSize</key>
+                <string>{30,16}</string>
+                <key>spriteSourceSize</key>
+                <string>{49,52}</string>
+                <key>textureRect</key>
+                <string>{{135,1371},{30,16}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>49 17 19 17 19 1 49 1</string>
+                <key>verticesUV</key>
+                <string>165 1387 135 1387 135 1371 165 1371</string>
+            </dict>
+            <key>iori_Die/0012.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{8.5,18}</string>
+                <key>spriteSize</key>
+                <string>{30,16}</string>
+                <key>spriteSourceSize</key>
+                <string>{49,52}</string>
+                <key>textureRect</key>
+                <string>{{71,1372},{30,16}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>48 16 18 16 18 0 48 0</string>
+                <key>verticesUV</key>
+                <string>101 1388 71 1388 71 1372 101 1372</string>
+            </dict>
+            <key>iori_Die/0013.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{7.5,18}</string>
+                <key>spriteSize</key>
+                <string>{30,16}</string>
+                <key>spriteSourceSize</key>
+                <string>{49,52}</string>
+                <key>textureRect</key>
+                <string>{{103,1369},{30,16}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>47 16 17 16 17 0 47 0</string>
+                <key>verticesUV</key>
+                <string>133 1385 103 1385 103 1369 133 1369</string>
+            </dict>
+            <key>iori_Die/0014.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{5.5,18}</string>
+                <key>spriteSize</key>
+                <string>{30,16}</string>
+                <key>spriteSourceSize</key>
+                <string>{49,52}</string>
+                <key>textureRect</key>
+                <string>{{1,1364},{30,16}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>45 16 15 16 15 0 45 0</string>
+                <key>verticesUV</key>
+                <string>31 1380 1 1380 1 1364 31 1364</string>
+            </dict>
+            <key>iori_Die/0015.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{4.5,18}</string>
+                <key>spriteSize</key>
+                <string>{30,16}</string>
+                <key>spriteSourceSize</key>
+                <string>{49,52}</string>
+                <key>textureRect</key>
+                <string>{{38,1360},{30,16}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>44 16 14 16 14 0 44 0</string>
+                <key>verticesUV</key>
+                <string>68 1376 38 1376 38 1360 68 1360</string>
+            </dict>
+            <key>iori_Die/0016.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{4,17.5}</string>
+                <key>spriteSize</key>
+                <string>{31,17}</string>
+                <key>spriteSourceSize</key>
+                <string>{49,52}</string>
+                <key>textureRect</key>
+                <string>{{70,1353},{31,17}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>44 17 13 17 13 0 44 0</string>
+                <key>verticesUV</key>
+                <string>101 1370 70 1370 70 1353 101 1353</string>
+            </dict>
+            <key>iori_Die/0017.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0.5,15.5}</string>
+                <key>spriteSize</key>
+                <string>{36,21}</string>
+                <key>spriteSourceSize</key>
+                <string>{49,52}</string>
+                <key>textureRect</key>
+                <string>{{136,1289},{36,21}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 3 4 1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>43 16 15 21 7 5 36 0 43 0</string>
+                <key>verticesUV</key>
+                <string>172 1305 144 1310 136 1294 165 1289 172 1289</string>
+            </dict>
+            <key>iori_Die/0018.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,14}</string>
+                <key>spriteSize</key>
+                <string>{35,22}</string>
+                <key>spriteSourceSize</key>
+                <string>{49,52}</string>
+                <key>textureRect</key>
+                <string>{{99,1292},{35,22}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>2 3 4 1 2 4 0 1 4</string>
+                <key>vertices</key>
+                <string>42 2 42 18 14 23 7 10 27 1</string>
+                <key>verticesUV</key>
+                <string>134 1293 134 1309 106 1314 99 1301 119 1292</string>
+            </dict>
+            <key>iori_Die/0019.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{1,12}</string>
+                <key>spriteSize</key>
+                <string>{31,18}</string>
+                <key>spriteSourceSize</key>
+                <string>{49,52}</string>
+                <key>textureRect</key>
+                <string>{{136,1351},{31,18}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>41 23 10 23 10 5 41 5</string>
+                <key>verticesUV</key>
+                <string>167 1369 136 1369 136 1351 167 1351</string>
+            </dict>
+            <key>iori_Die/0020.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,8.5}</string>
+                <key>spriteSize</key>
+                <string>{31,19}</string>
+                <key>spriteSourceSize</key>
+                <string>{49,52}</string>
+                <key>textureRect</key>
+                <string>{{163,1330},{31,19}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>40 27 9 27 9 8 40 8</string>
+                <key>verticesUV</key>
+                <string>194 1349 163 1349 163 1330 194 1330</string>
+            </dict>
+            <key>iori_Die/0021.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-1,5}</string>
+                <key>spriteSize</key>
+                <string>{31,18}</string>
+                <key>spriteSourceSize</key>
+                <string>{49,52}</string>
+                <key>textureRect</key>
+                <string>{{103,1349},{31,18}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>39 30 8 30 8 12 39 12</string>
+                <key>verticesUV</key>
+                <string>134 1367 103 1367 103 1349 134 1349</string>
+            </dict>
+            <key>iori_Die/0022.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-2,0.5}</string>
+                <key>spriteSize</key>
+                <string>{31,19}</string>
+                <key>spriteSourceSize</key>
+                <string>{49,52}</string>
+                <key>textureRect</key>
+                <string>{{103,1328},{31,19}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>38 35 7 35 7 16 38 16</string>
+                <key>verticesUV</key>
+                <string>134 1347 103 1347 103 1328 134 1328</string>
+            </dict>
+            <key>iori_Die/0023.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-3,-4}</string>
+                <key>spriteSize</key>
+                <string>{31,18}</string>
+                <key>spriteSourceSize</key>
+                <string>{49,52}</string>
+                <key>textureRect</key>
+                <string>{{1,1344},{31,18}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>37 39 6 39 6 21 37 21</string>
+                <key>verticesUV</key>
+                <string>32 1362 1 1362 1 1344 32 1344</string>
+            </dict>
+            <key>iori_Die/0024.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-3.5,-18.5}</string>
+                <key>spriteSize</key>
+                <string>{30,15}</string>
+                <key>spriteSourceSize</key>
+                <string>{49,52}</string>
+                <key>textureRect</key>
+                <string>{{39,1378},{30,15}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>36 52 6 52 6 37 36 37</string>
+                <key>verticesUV</key>
+                <string>69 1393 39 1393 39 1378 69 1378</string>
+            </dict>
+            <key>iori_Die/0025.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-5.5,-15.5}</string>
+                <key>spriteSize</key>
+                <string>{34,21}</string>
+                <key>spriteSourceSize</key>
+                <string>{49,52}</string>
+                <key>textureRect</key>
+                <string>{{1,1301},{34,21}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 1 2 0 2 3</string>
+                <key>vertices</key>
+                <string>33 39 36 52 3 52 2 31</string>
+                <key>verticesUV</key>
+                <string>32 1309 35 1322 2 1322 1 1301</string>
+            </dict>
+            <key>iori_Die/0026.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-6.5,-14.5}</string>
+                <key>spriteSize</key>
+                <string>{36,23}</string>
+                <key>spriteSourceSize</key>
+                <string>{49,52}</string>
+                <key>textureRect</key>
+                <string>{{139,1201},{36,23}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>2 3 4 0 1 2 0 2 4</string>
+                <key>vertices</key>
+                <string>32 40 36 52 5 52 0 47 10 29</string>
+                <key>verticesUV</key>
+                <string>171 1212 175 1224 144 1224 139 1219 149 1201</string>
+            </dict>
+            <key>iori_Die/0027.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-7.5,-17}</string>
+                <key>spriteSize</key>
+                <string>{32,18}</string>
+                <key>spriteSourceSize</key>
+                <string>{49,52}</string>
+                <key>textureRect</key>
+                <string>{{1,1324},{32,18}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>33 52 1 52 1 34 33 34</string>
+                <key>verticesUV</key>
+                <string>33 1342 1 1342 1 1324 33 1324</string>
+            </dict>
+            <key>iori_Die/0028.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-8.5,-17}</string>
+                <key>spriteSize</key>
+                <string>{32,18}</string>
+                <key>spriteSourceSize</key>
+                <string>{49,52}</string>
+                <key>textureRect</key>
+                <string>{{159,1310},{32,18}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>32 52 0 52 0 34 32 34</string>
+                <key>verticesUV</key>
+                <string>191 1328 159 1328 159 1310 191 1310</string>
+            </dict>
+            <key>iori_Die/0029.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-9,-17}</string>
+                <key>spriteSize</key>
+                <string>{31,18}</string>
+                <key>spriteSourceSize</key>
+                <string>{49,52}</string>
+                <key>textureRect</key>
+                <string>{{70,1333},{31,18}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>2 3 4 1 2 4 0 1 4</string>
+                <key>vertices</key>
+                <string>31 40 31 52 0 52 0 43 9 34</string>
+                <key>verticesUV</key>
+                <string>101 1339 101 1351 70 1351 70 1342 79 1333</string>
+            </dict>
+            <key>iori_Die/0030.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-6,-19.5}</string>
+                <key>spriteSize</key>
+                <string>{37,13}</string>
+                <key>spriteSourceSize</key>
+                <string>{49,52}</string>
+                <key>textureRect</key>
+                <string>{{86,1313},{37,13}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>37 46 31 52 0 52 0 39</string>
+                <key>verticesUV</key>
+                <string>123 1320 117 1326 86 1326 86 1313</string>
+            </dict>
+            <key>mai_ChouHissatsuShinobiBachi/0001.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{96,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{96,50}</string>
+                <key>textureRect</key>
+                <string>{{99,521},{96,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>96 50 0 50 0 0 96 0</string>
+                <key>verticesUV</key>
+                <string>195 571 99 571 99 521 195 521</string>
+            </dict>
+            <key>mai_ChouHissatsuShinobiBachi/0002.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{96,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{96,50}</string>
+                <key>textureRect</key>
+                <string>{{99,469},{96,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>96 50 0 50 0 0 96 0</string>
+                <key>verticesUV</key>
+                <string>195 519 99 519 99 469 195 469</string>
+            </dict>
+            <key>mai_ChouHissatsuShinobiBachi/0003.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{96,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{96,50}</string>
+                <key>textureRect</key>
+                <string>{{99,417},{96,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>96 50 0 50 0 0 96 0</string>
+                <key>verticesUV</key>
+                <string>195 467 99 467 99 417 195 417</string>
+            </dict>
+            <key>mai_ChouHissatsuShinobiBachi/0004.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{96,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{96,50}</string>
+                <key>textureRect</key>
+                <string>{{99,365},{96,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>96 50 0 50 0 0 96 0</string>
+                <key>verticesUV</key>
+                <string>195 415 99 415 99 365 195 365</string>
+            </dict>
+            <key>mai_ChouHissatsuShinobiBachi/0005.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{96,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{96,50}</string>
+                <key>textureRect</key>
+                <string>{{99,313},{96,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>96 50 0 50 0 0 96 0</string>
+                <key>verticesUV</key>
+                <string>195 363 99 363 99 313 195 313</string>
+            </dict>
+            <key>mai_ChouHissatsuShinobiBachi/0006.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{96,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{96,50}</string>
+                <key>textureRect</key>
+                <string>{{99,261},{96,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>96 50 0 50 0 0 96 0</string>
+                <key>verticesUV</key>
+                <string>195 311 99 311 99 261 195 261</string>
+            </dict>
+            <key>mai_ChouHissatsuShinobiBachi/0007.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{96,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{96,50}</string>
+                <key>textureRect</key>
+                <string>{{99,209},{96,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>96 50 0 50 0 0 96 0</string>
+                <key>verticesUV</key>
+                <string>195 259 99 259 99 209 195 209</string>
+            </dict>
+            <key>mai_ChouHissatsuShinobiBachi/0008.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{96,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{96,50}</string>
+                <key>textureRect</key>
+                <string>{{99,157},{96,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>96 50 0 50 0 0 96 0</string>
+                <key>verticesUV</key>
+                <string>195 207 99 207 99 157 195 157</string>
+            </dict>
+            <key>mai_ChouHissatsuShinobiBachi/0009.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{96,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{96,50}</string>
+                <key>textureRect</key>
+                <string>{{99,105},{96,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>96 50 0 50 0 0 96 0</string>
+                <key>verticesUV</key>
+                <string>195 155 99 155 99 105 195 105</string>
+            </dict>
+            <key>mai_ChouHissatsuShinobiBachi/0010.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{96,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{96,50}</string>
+                <key>textureRect</key>
+                <string>{{99,53},{96,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>96 50 0 50 0 0 96 0</string>
+                <key>verticesUV</key>
+                <string>195 103 99 103 99 53 195 53</string>
+            </dict>
+            <key>mai_ChouHissatsuShinobiBachi/0011.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{96,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{96,50}</string>
+                <key>textureRect</key>
+                <string>{{1,1249},{96,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>96 50 0 50 0 0 96 0</string>
+                <key>verticesUV</key>
+                <string>97 1299 1 1299 1 1249 97 1249</string>
+            </dict>
+            <key>mai_ChouHissatsuShinobiBachi/0012.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{96,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{96,50}</string>
+                <key>textureRect</key>
+                <string>{{1,1197},{96,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>96 50 0 50 0 0 96 0</string>
+                <key>verticesUV</key>
+                <string>97 1247 1 1247 1 1197 97 1197</string>
+            </dict>
+            <key>mai_ChouHissatsuShinobiBachi/0013.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{96,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{96,50}</string>
+                <key>textureRect</key>
+                <string>{{1,1145},{96,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>96 50 0 50 0 0 96 0</string>
+                <key>verticesUV</key>
+                <string>97 1195 1 1195 1 1145 97 1145</string>
+            </dict>
+            <key>mai_ChouHissatsuShinobiBachi/0014.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{96,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{96,50}</string>
+                <key>textureRect</key>
+                <string>{{1,1093},{96,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>96 50 0 50 0 0 96 0</string>
+                <key>verticesUV</key>
+                <string>97 1143 1 1143 1 1093 97 1093</string>
+            </dict>
+            <key>mai_ChouHissatsuShinobiBachi/0015.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{96,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{96,50}</string>
+                <key>textureRect</key>
+                <string>{{1,1041},{96,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>96 50 0 50 0 0 96 0</string>
+                <key>verticesUV</key>
+                <string>97 1091 1 1091 1 1041 97 1041</string>
+            </dict>
+            <key>mai_ChouHissatsuShinobiBachi/0016.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{96,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{96,50}</string>
+                <key>textureRect</key>
+                <string>{{1,989},{96,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>96 50 0 50 0 0 96 0</string>
+                <key>verticesUV</key>
+                <string>97 1039 1 1039 1 989 97 989</string>
+            </dict>
+            <key>mai_ChouHissatsuShinobiBachi/0017.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{96,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{96,50}</string>
+                <key>textureRect</key>
+                <string>{{1,937},{96,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>96 50 0 50 0 0 96 0</string>
+                <key>verticesUV</key>
+                <string>97 987 1 987 1 937 97 937</string>
+            </dict>
+            <key>mai_ChouHissatsuShinobiBachi/0018.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{96,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{96,50}</string>
+                <key>textureRect</key>
+                <string>{{1,885},{96,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>96 50 0 50 0 0 96 0</string>
+                <key>verticesUV</key>
+                <string>97 935 1 935 1 885 97 885</string>
+            </dict>
+            <key>mai_ChouHissatsuShinobiBachi/0019.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{96,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{96,50}</string>
+                <key>textureRect</key>
+                <string>{{1,833},{96,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>96 50 0 50 0 0 96 0</string>
+                <key>verticesUV</key>
+                <string>97 883 1 883 1 833 97 833</string>
+            </dict>
+            <key>mai_ChouHissatsuShinobiBachi/0020.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{96,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{96,50}</string>
+                <key>textureRect</key>
+                <string>{{1,781},{96,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>96 50 0 50 0 0 96 0</string>
+                <key>verticesUV</key>
+                <string>97 831 1 831 1 781 97 781</string>
+            </dict>
+            <key>mai_ChouHissatsuShinobiBachi/0021.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{96,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{96,50}</string>
+                <key>textureRect</key>
+                <string>{{1,729},{96,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>96 50 0 50 0 0 96 0</string>
+                <key>verticesUV</key>
+                <string>97 779 1 779 1 729 97 729</string>
+            </dict>
+            <key>mai_ChouHissatsuShinobiBachi/0022.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{96,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{96,50}</string>
+                <key>textureRect</key>
+                <string>{{1,677},{96,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>96 50 0 50 0 0 96 0</string>
+                <key>verticesUV</key>
+                <string>97 727 1 727 1 677 97 677</string>
+            </dict>
+            <key>mai_ChouHissatsuShinobiBachi/0023.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{96,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{96,50}</string>
+                <key>textureRect</key>
+                <string>{{1,625},{96,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>96 50 0 50 0 0 96 0</string>
+                <key>verticesUV</key>
+                <string>97 675 1 675 1 625 97 625</string>
+            </dict>
+            <key>mai_ChouHissatsuShinobiBachi/0024.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{96,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{96,50}</string>
+                <key>textureRect</key>
+                <string>{{1,573},{96,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>96 50 0 50 0 0 96 0</string>
+                <key>verticesUV</key>
+                <string>97 623 1 623 1 573 97 573</string>
+            </dict>
+            <key>mai_ChouHissatsuShinobiBachi/0025.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{96,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{96,50}</string>
+                <key>textureRect</key>
+                <string>{{1,521},{96,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>96 50 0 50 0 0 96 0</string>
+                <key>verticesUV</key>
+                <string>97 571 1 571 1 521 97 521</string>
+            </dict>
+            <key>mai_ChouHissatsuShinobiBachi/0026.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{96,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{96,50}</string>
+                <key>textureRect</key>
+                <string>{{1,469},{96,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>96 50 0 50 0 0 96 0</string>
+                <key>verticesUV</key>
+                <string>97 519 1 519 1 469 97 469</string>
+            </dict>
+            <key>mai_ChouHissatsuShinobiBachi/0027.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{96,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{96,50}</string>
+                <key>textureRect</key>
+                <string>{{1,417},{96,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>96 50 0 50 0 0 96 0</string>
+                <key>verticesUV</key>
+                <string>97 467 1 467 1 417 97 417</string>
+            </dict>
+            <key>mai_ChouHissatsuShinobiBachi/0028.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{96,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{96,50}</string>
+                <key>textureRect</key>
+                <string>{{1,365},{96,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>96 50 0 50 0 0 96 0</string>
+                <key>verticesUV</key>
+                <string>97 415 1 415 1 365 97 365</string>
+            </dict>
+            <key>mai_ChouHissatsuShinobiBachi/0029.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{96,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{96,50}</string>
+                <key>textureRect</key>
+                <string>{{1,313},{96,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>96 50 0 50 0 0 96 0</string>
+                <key>verticesUV</key>
+                <string>97 363 1 363 1 313 97 313</string>
+            </dict>
+            <key>mai_ChouHissatsuShinobiBachi/0030.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{96,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{96,50}</string>
+                <key>textureRect</key>
+                <string>{{1,261},{96,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>96 50 0 50 0 0 96 0</string>
+                <key>verticesUV</key>
+                <string>97 311 1 311 1 261 97 261</string>
+            </dict>
+            <key>mai_ChouHissatsuShinobiBachi/0031.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{96,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{96,50}</string>
+                <key>textureRect</key>
+                <string>{{1,209},{96,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>96 50 0 50 0 0 96 0</string>
+                <key>verticesUV</key>
+                <string>97 259 1 259 1 209 97 209</string>
+            </dict>
+            <key>mai_ChouHissatsuShinobiBachi/0032.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{96,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{96,50}</string>
+                <key>textureRect</key>
+                <string>{{1,157},{96,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>96 50 0 50 0 0 96 0</string>
+                <key>verticesUV</key>
+                <string>97 207 1 207 1 157 97 157</string>
+            </dict>
+            <key>mai_ChouHissatsuShinobiBachi/0033.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{96,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{96,50}</string>
+                <key>textureRect</key>
+                <string>{{1,105},{96,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>96 50 0 50 0 0 96 0</string>
+                <key>verticesUV</key>
+                <string>97 155 1 155 1 105 97 105</string>
+            </dict>
+            <key>mai_ChouHissatsuShinobiBachi/0034.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{96,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{96,50}</string>
+                <key>textureRect</key>
+                <string>{{99,1},{96,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>96 50 0 50 0 0 96 0</string>
+                <key>verticesUV</key>
+                <string>195 51 99 51 99 1 195 1</string>
+            </dict>
+            <key>mai_ChouHissatsuShinobiBachi/0035.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{96,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{96,50}</string>
+                <key>textureRect</key>
+                <string>{{1,53},{96,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>96 50 0 50 0 0 96 0</string>
+                <key>verticesUV</key>
+                <string>97 103 1 103 1 53 97 53</string>
+            </dict>
+            <key>mai_ChouHissatsuShinobiBachi/0036.jpg</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{96,50}</string>
+                <key>spriteSourceSize</key>
+                <string>{96,50}</string>
+                <key>textureRect</key>
+                <string>{{1,1},{96,50}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>96 50 0 50 0 0 96 0</string>
+                <key>verticesUV</key>
+                <string>97 51 1 51 1 1 97 1</string>
+            </dict>
+            <key>mai_Start1/0001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{2,-4}</string>
+                <key>spriteSize</key>
+                <string>{21,30}</string>
+                <key>spriteSourceSize</key>
+                <string>{35,38}</string>
+                <key>textureRect</key>
+                <string>{{63,1301},{21,30}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 2 3 0 1 2</string>
+                <key>vertices</key>
+                <string>30 38 9 38 14 8 30 8</string>
+                <key>verticesUV</key>
+                <string>84 1331 63 1331 68 1301 84 1301</string>
+            </dict>
+            <key>mai_Start1/0002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{2,-1.5}</string>
+                <key>spriteSize</key>
+                <string>{21,35}</string>
+                <key>spriteSourceSize</key>
+                <string>{35,38}</string>
+                <key>textureRect</key>
+                <string>{{158,1019},{21,35}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 1 2 0 2 3</string>
+                <key>vertices</key>
+                <string>30 17 30 38 9 38 16 3</string>
+                <key>verticesUV</key>
+                <string>179 1033 179 1054 158 1054 165 1019</string>
+            </dict>
+            <key>mai_Start1/0003.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{2,-2.5}</string>
+                <key>spriteSize</key>
+                <string>{21,33}</string>
+                <key>spriteSourceSize</key>
+                <string>{35,38}</string>
+                <key>textureRect</key>
+                <string>{{174,1209},{21,33}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 2 3 0 1 2</string>
+                <key>vertices</key>
+                <string>30 38 9 38 15 8 30 5</string>
+                <key>verticesUV</key>
+                <string>195 1242 174 1242 180 1212 195 1209</string>
+            </dict>
+            <key>mai_Start1/0004.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{2,-4.5}</string>
+                <key>spriteSize</key>
+                <string>{21,29}</string>
+                <key>spriteSourceSize</key>
+                <string>{35,38}</string>
+                <key>textureRect</key>
+                <string>{{173,1178},{21,29}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 2 3 0 1 2</string>
+                <key>vertices</key>
+                <string>30 38 9 38 15 9 30 9</string>
+                <key>verticesUV</key>
+                <string>194 1207 173 1207 179 1178 194 1178</string>
+            </dict>
+            <key>mai_Start1/0005.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{2,-1.5}</string>
+                <key>spriteSize</key>
+                <string>{21,35}</string>
+                <key>spriteSourceSize</key>
+                <string>{35,38}</string>
+                <key>textureRect</key>
+                <string>{{169,749},{21,35}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 1 2 0 2 3</string>
+                <key>vertices</key>
+                <string>30 17 30 38 9 38 16 3</string>
+                <key>verticesUV</key>
+                <string>190 763 190 784 169 784 176 749</string>
+            </dict>
+            <key>mai_Start1/0006.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{2,-1.5}</string>
+                <key>spriteSize</key>
+                <string>{21,35}</string>
+                <key>spriteSourceSize</key>
+                <string>{35,38}</string>
+                <key>textureRect</key>
+                <string>{{172,608},{21,35}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 1 2 0 2 3</string>
+                <key>vertices</key>
+                <string>30 17 30 38 9 38 16 3</string>
+                <key>verticesUV</key>
+                <string>193 622 193 643 172 643 179 608</string>
+            </dict>
+            <key>mai_Start1/0007.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{1,-6.5}</string>
+                <key>spriteSize</key>
+                <string>{23,25}</string>
+                <key>spriteSourceSize</key>
+                <string>{35,38}</string>
+                <key>textureRect</key>
+                <string>{{35,1333},{23,25}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>30 38 7 38 7 13 30 13</string>
+                <key>verticesUV</key>
+                <string>58 1358 35 1358 35 1333 58 1333</string>
+            </dict>
+            <key>mai_Start1/0008.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0.5,-8.5}</string>
+                <key>spriteSize</key>
+                <string>{24,21}</string>
+                <key>spriteSourceSize</key>
+                <string>{35,38}</string>
+                <key>textureRect</key>
+                <string>{{169,1351},{24,21}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>30 38 6 38 6 17 30 17</string>
+                <key>verticesUV</key>
+                <string>193 1372 169 1372 169 1351 193 1351</string>
+            </dict>
+            <key>mai_Start1/0009.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{1.5,-4}</string>
+                <key>spriteSize</key>
+                <string>{24,30}</string>
+                <key>spriteSourceSize</key>
+                <string>{35,38}</string>
+                <key>textureRect</key>
+                <string>{{37,1301},{24,30}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>31 38 7 38 7 8 31 8</string>
+                <key>verticesUV</key>
+                <string>61 1331 37 1331 37 1301 61 1301</string>
+            </dict>
+            <key>mai_Start1/0010.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0.5,0}</string>
+                <key>spriteSize</key>
+                <string>{28,38}</string>
+                <key>spriteSourceSize</key>
+                <string>{35,38}</string>
+                <key>textureRect</key>
+                <string>{{99,802},{28,38}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>32 38 4 38 4 0 32 0</string>
+                <key>verticesUV</key>
+                <string>127 840 99 840 99 802 127 802</string>
+            </dict>
+            <key>mai_Start1/0011.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,-3}</string>
+                <key>spriteSize</key>
+                <string>{35,32}</string>
+                <key>spriteSourceSize</key>
+                <string>{35,38}</string>
+                <key>textureRect</key>
+                <string>{{99,688},{35,32}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>35 38 0 38 0 6 35 6</string>
+                <key>verticesUV</key>
+                <string>134 720 99 720 99 688 134 688</string>
+            </dict>
+            <key>mai_Start1/0012.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0.5,-1.5}</string>
+                <key>spriteSize</key>
+                <string>{34,35}</string>
+                <key>spriteSourceSize</key>
+                <string>{35,38}</string>
+                <key>textureRect</key>
+                <string>{{136,573},{34,35}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>35 38 1 38 1 3 35 3</string>
+                <key>verticesUV</key>
+                <string>170 608 136 608 136 573 170 573</string>
+            </dict>
+            <key>mai_Start1/0013.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{4,0}</string>
+                <key>spriteSize</key>
+                <string>{27,38}</string>
+                <key>spriteSourceSize</key>
+                <string>{35,38}</string>
+                <key>textureRect</key>
+                <string>{{139,1006},{27,38}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 1 5 4 2 3 4 5 2 1 2 5 0 5 6</string>
+                <key>vertices</key>
+                <string>30 1 35 4 22 38 9 38 8 6 20 0 28 0</string>
+                <key>verticesUV</key>
+                <string>161 1007 166 1010 153 1044 140 1044 139 1012 151 1006 159 1006</string>
+            </dict>
+            <key>mai_Start1/0014.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0.5,0}</string>
+                <key>spriteSize</key>
+                <string>{18,38}</string>
+                <key>spriteSourceSize</key>
+                <string>{35,38}</string>
+                <key>textureRect</key>
+                <string>{{169,786},{18,38}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>2 3 4 0 2 4 0 1 2</string>
+                <key>vertices</key>
+                <string>27 38 9 38 9 8 13 0 27 0</string>
+                <key>verticesUV</key>
+                <string>187 824 169 824 169 794 173 786 187 786</string>
+            </dict>
+            <key>mai_Start1/0015.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{2.5,0}</string>
+                <key>spriteSize</key>
+                <string>{28,38}</string>
+                <key>spriteSourceSize</key>
+                <string>{35,38}</string>
+                <key>textureRect</key>
+                <string>{{99,762},{28,38}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>34 38 6 38 6 0 34 0</string>
+                <key>verticesUV</key>
+                <string>127 800 99 800 99 762 127 762</string>
+            </dict>
+            <key>mai_Start1/0016.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{2.5,-0.5}</string>
+                <key>spriteSize</key>
+                <string>{24,37}</string>
+                <key>spriteSourceSize</key>
+                <string>{35,38}</string>
+                <key>textureRect</key>
+                <string>{{139,1046},{24,37}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 1 2 0 2 3</string>
+                <key>vertices</key>
+                <string>32 16 32 38 8 38 8 1</string>
+                <key>verticesUV</key>
+                <string>163 1061 163 1083 139 1083 139 1046</string>
+            </dict>
+            <key>mai_Start1/0017.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{1,-3.5}</string>
+                <key>spriteSize</key>
+                <string>{17,31}</string>
+                <key>spriteSourceSize</key>
+                <string>{35,38}</string>
+                <key>textureRect</key>
+                <string>{{174,1145},{17,31}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 1 2 0 2 3</string>
+                <key>vertices</key>
+                <string>27 10 27 38 10 38 10 7</string>
+                <key>verticesUV</key>
+                <string>191 1148 191 1176 174 1176 174 1145</string>
+            </dict>
+            <key>mai_Start1/0018.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0.5,0}</string>
+                <key>spriteSize</key>
+                <string>{28,38}</string>
+                <key>spriteSourceSize</key>
+                <string>{35,38}</string>
+                <key>textureRect</key>
+                <string>{{99,722},{28,38}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>2 3 4 0 1 2 0 2 4</string>
+                <key>vertices</key>
+                <string>32 20 32 38 4 38 4 0 12 0</string>
+                <key>verticesUV</key>
+                <string>127 742 127 760 99 760 99 722 107 722</string>
+            </dict>
+            <key>mai_Start1/0019.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,-3}</string>
+                <key>spriteSize</key>
+                <string>{35,32}</string>
+                <key>spriteSourceSize</key>
+                <string>{35,38}</string>
+                <key>textureRect</key>
+                <string>{{99,654},{35,32}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>35 38 0 38 0 6 35 6</string>
+                <key>verticesUV</key>
+                <string>134 686 99 686 99 654 134 654</string>
+            </dict>
+            <key>mai_Start1/0020.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{1,-5.5}</string>
+                <key>spriteSize</key>
+                <string>{33,27}</string>
+                <key>spriteSourceSize</key>
+                <string>{35,38}</string>
+                <key>textureRect</key>
+                <string>{{139,1172},{33,27}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>35 38 2 38 2 11 35 11</string>
+                <key>verticesUV</key>
+                <string>172 1199 139 1199 139 1172 172 1172</string>
+            </dict>
+            <key>mai_Start1/0021.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{1,-5.5}</string>
+                <key>spriteSize</key>
+                <string>{33,27}</string>
+                <key>spriteSourceSize</key>
+                <string>{35,38}</string>
+                <key>textureRect</key>
+                <string>{{139,1143},{33,27}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>35 38 2 38 2 11 35 11</string>
+                <key>verticesUV</key>
+                <string>172 1170 139 1170 139 1143 172 1143</string>
+            </dict>
+            <key>mai_Start1/0022.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{1,-5.5}</string>
+                <key>spriteSize</key>
+                <string>{33,27}</string>
+                <key>spriteSourceSize</key>
+                <string>{35,38}</string>
+                <key>textureRect</key>
+                <string>{{139,1114},{33,27}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>35 38 2 38 2 11 35 11</string>
+                <key>verticesUV</key>
+                <string>172 1141 139 1141 139 1114 172 1114</string>
+            </dict>
+            <key>mai_Start1/0023.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{1,-5.5}</string>
+                <key>spriteSize</key>
+                <string>{33,27}</string>
+                <key>spriteSourceSize</key>
+                <string>{35,38}</string>
+                <key>textureRect</key>
+                <string>{{139,1085},{33,27}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>35 38 2 38 2 11 35 11</string>
+                <key>verticesUV</key>
+                <string>172 1112 139 1112 139 1085 172 1085</string>
+            </dict>
+            <key>mai_Start1/0024.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{1,-1}</string>
+                <key>spriteSize</key>
+                <string>{31,36}</string>
+                <key>spriteSourceSize</key>
+                <string>{35,38}</string>
+                <key>textureRect</key>
+                <string>{{99,616},{31,36}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 1 3 1 2 3 0 3 4</string>
+                <key>vertices</key>
+                <string>34 10 34 38 5 38 3 19 26 2</string>
+                <key>verticesUV</key>
+                <string>130 624 130 652 101 652 99 633 122 616</string>
+            </dict>
+            <key>mai_Start1/0025.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{2,-4.5}</string>
+                <key>spriteSize</key>
+                <string>{29,29}</string>
+                <key>spriteSourceSize</key>
+                <string>{35,38}</string>
+                <key>textureRect</key>
+                <string>{{139,1226},{29,29}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>34 10 27 38 5 38 8 9</string>
+                <key>verticesUV</key>
+                <string>168 1227 161 1255 139 1255 142 1226</string>
+            </dict>
+            <key>mai_Start1/0026.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-1.5,-5.5}</string>
+                <key>spriteSize</key>
+                <string>{22,27}</string>
+                <key>spriteSourceSize</key>
+                <string>{35,38}</string>
+                <key>textureRect</key>
+                <string>{{174,1281},{22,27}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>27 12 27 38 5 38 9 11</string>
+                <key>verticesUV</key>
+                <string>196 1282 196 1308 174 1308 178 1281</string>
+            </dict>
+            <key>mai_Start1/0027.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0.5,-6}</string>
+                <key>spriteSize</key>
+                <string>{24,26}</string>
+                <key>spriteSourceSize</key>
+                <string>{35,38}</string>
+                <key>textureRect</key>
+                <string>{{136,1313},{24,26}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>30 38 6 38 6 12 21 12</string>
+                <key>verticesUV</key>
+                <string>160 1339 136 1339 136 1313 151 1313</string>
+            </dict>
+            <key>mai_Start1/0028.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-1,-2.5}</string>
+                <key>spriteSize</key>
+                <string>{23,33}</string>
+                <key>spriteSourceSize</key>
+                <string>{35,38}</string>
+                <key>textureRect</key>
+                <string>{{172,573},{23,33}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 1 2 0 2 3</string>
+                <key>vertices</key>
+                <string>28 21 28 38 5 38 12 5</string>
+                <key>verticesUV</key>
+                <string>195 589 195 606 172 606 179 573</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>spriteList2.png</string>
+            <key>size</key>
+            <string>{197,1397}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:83e4b7574a28efdcf327b96124df5c8f:e1594903e23ed358b8de9279f29f2aeb:591aee115b87a931d3134c9444cafc2d$</string>
+            <key>textureFileName</key>
+            <string>spriteList2.png</string>
+        </dict>
+    </dict>
+</plist>
